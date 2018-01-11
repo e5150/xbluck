@@ -1,0 +1,17 @@
+.*.swp
+*.o
+*.a
+mk.*
+*.oo
+*.so
+*~
+*.bak
+*.orig
+gmon.out
+xbluck
+core
+vgcore.*
+tags
+config.h
+build.*
+screenshot.sh
