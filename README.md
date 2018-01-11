@@ -40,4 +40,4 @@ and will be applied as given on the command line.
 	-G|--grey               : Convert to grey-scale
 ```
 
-[screenshot](http://https://raw.githubusercontent.com/e5150/xbluck/master/screenshot.jpg)
+[screenshot](https://raw.githubusercontent.com/e5150/xbluck/master/screenshot.jpg)
